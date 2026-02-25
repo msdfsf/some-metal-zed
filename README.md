@@ -4,7 +4,7 @@ A collection of minimalist syntax themes for the Zed editor, based on palettes f
 ## Album Cover References
 *Not sure if using the real names is fully legal, so some homage mashups are used instead*
 * **Killing Is My Business...** — *Looking Down The Business is Good* (Red/Brass)
-* **Peace Sells...** — *Last Words To Sell* (Orange/Purple)
+* **Peace Sells...** — *Last Words Sells* (Orange/Purple)
 * **Rust in Peace** — *Hangar of Souls... Peace Was The Cure* (Blue/Green)
 * **Don't Break the Oath** — *Come to The Oath* (Yellow/Red)
 * **Wall of Sound** — *Wall of Vibrato* (Parchment/Gold)
