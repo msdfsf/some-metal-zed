@@ -4,4 +4,4 @@ version = "0.1.8"
 schema_version = 1
 authors = ["msdfsf"]
 description = "Themes inspired by some metal covers."
-repository = "https://github.com/your-name/my-zed-extension"
+repository = "https://github.com/msdfsf/some-metal-zed"
